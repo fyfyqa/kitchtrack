@@ -1,0 +1,11 @@
+# Uploaded receipt photos (keep folder security files only)
+uploads/*
+!uploads/.htaccess
+!uploads/index.html
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
