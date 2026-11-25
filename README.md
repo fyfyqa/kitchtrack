@@ -1,5 +1,7 @@
 # KitchTrack — Restaurant Restock & Petty Cash Management System
 
+> **Live Demo:** [http://kitchtrack.rf.gd](http://kitchtrack.rf.gd)
+
 KitchTrack is a mobile-first internal web application built with **Plain PHP (PDO)**, **MySQL**, **Bootstrap 5**, **Vanilla JavaScript (`fetch` API)**, and **Chart.js** to help restaurant owners and staff manage daily restocking, shopping trips, delivery verification, and petty cash.
 
 ## Features
